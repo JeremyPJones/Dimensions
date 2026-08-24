@@ -1,0 +1,1 @@
+Directory to hold python files. The WebSocket connector, the battle parser, and the main run loop will live here. 

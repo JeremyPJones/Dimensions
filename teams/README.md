@@ -1,0 +1,1 @@
+Directory to drop .txt files containing the Showdown export text for the teams the Showdown bot will use. 

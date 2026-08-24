@@ -1,0 +1,1 @@
+Directory for small scripts where test for single functions (e.g. parsing a string) without having to launch a full battle

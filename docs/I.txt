@@ -1,0 +1,35 @@
+#Author: Jeremy Jones
+#Date: 08 24 2026
+
+
+First, I created a repository on Github's online page, then I cloned the repository onto my local device. 
+
+_______________________________________________________________________________________________________
+
+Second, I opened a command shell prompt and used the commands listed below to make derived directories and README.md files. The purpose of this is to define the intent of every folder and provide structure to the project.
+
+'mkdir (x,y,z)' - command to make directories. 
+
+'rmdir (x,y,z)' - command to delete directories
+
+'cd (pathToDir)' - command to change directory 
+
+'type nul > filename.filetype' - command to create a file in parent directory
+
+'ls -F' - command to view child directories in parent directory
+
+_______________________________________________________________________________________________________
+
+Third, I initialized all of my readme documentation to provide an initial plan for every directory, leaving out the log directory as it is self explanatory.
+
+
+_______________________________________________________________________________________________________
+
+Fourth, I created a virtual environment in python using this command: 
+			'-m venv venv' 
+
+in the parent directory of my project, and hten activated it with this line of code: 
+			'venv\Scripts\activate'
+
+
+

@@ -1,0 +1,1 @@
+Journal file for personal notes, writing down algorithms, and explanations of what the code is doing in this project.
